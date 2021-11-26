@@ -1,0 +1,7 @@
+{
+  "name": "Beats",
+  "description": "NyaNoh! Discord Music Bot for everyone!",
+  "repository": "https://github.com/eritislami/evobot",
+  "logo": "https://media.discordapp.net/attachments/907271879981662239/913723298716741632/247378277_117181264080899_3211743805302090067_n.jpg?width=609&height=671",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
